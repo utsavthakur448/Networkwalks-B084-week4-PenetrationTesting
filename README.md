@@ -149,4 +149,4 @@ No credentials, patient records, password hashes, or other confidential informat
 
 ---
 
-**#CyberSecurity #PenetrationTesting #VAPT #EthicalHacking #KaliLinux #Nmap #SQLInjection #WebSecurity**
+Classification: Confidential — Client Use Only
